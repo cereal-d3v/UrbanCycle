@@ -1,0 +1,11 @@
+api/lib/
+node_modules/
+frontend/android/.gradle/
+frontend/android/build/
+frontend/ios/Pods/
+frontend/ios/build/
+.DS_Store
+*.pyc
+__pycache__/
+.env
+venv/
